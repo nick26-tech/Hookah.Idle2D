@@ -1,0 +1,4 @@
+repository "Hookah.Idle 2D/Hookah.Idle 2D@9072393551942@cloud"
+  path "/"
+    br "/main"
+    co "/main"
